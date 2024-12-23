@@ -6,12 +6,11 @@ A Discord TTS Bot
 - Shortcuts. Want to be able to shorten words but the full word still read out loud? Shorcuts allows you to do just that. you just add your shortcut. e.g. `jk = Just kidding`
   if you type `jk`, the bot will say `just kidding`
 
-  # What Yappington uses:
-  - Disnake
-  - gTTS
-  - Asyncio
-  - OS
-  - json
-  - re
- 
-  - Disnake is a bot language library for Discord.
+# What Yappington uses:
+- Disnake
+- gTTS
+- Asyncio
+- OS
+- json
+- re
+- Disnake is a bot language library for Discord.
