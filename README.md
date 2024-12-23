@@ -1,5 +1,6 @@
 # Yappington
 A Discord TTS Bot
+If you require any support or would like to check the status of Yappington, join our Discord Server! | https://discord.gg/PH877gJEfx
 
 **Features**:
 - Speaks messages sent by users in a Discord VC Text Channel. This is done by a slash command `join`, once the Bot joins it begins to listen to the channel and will speak your messages!
